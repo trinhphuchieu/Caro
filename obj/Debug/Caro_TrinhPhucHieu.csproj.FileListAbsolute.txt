@@ -1,0 +1,10 @@
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\bin\Debug\Caro_TrinhPhucHieu.exe.config
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\bin\Debug\Caro_TrinhPhucHieu.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\bin\Debug\Caro_TrinhPhucHieu.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\obj\Debug\Caro_TrinhPhucHieu.csproj.AssemblyReference.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\obj\Debug\Caro_TrinhPhucHieu.Properties.Resources.resources
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\obj\Debug\Caro_TrinhPhucHieu.csproj.GenerateResource.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\obj\Debug\Caro_TrinhPhucHieu.csproj.CoreCompileInputs.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\obj\Debug\Caro_TrinhPhucHieu.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\obj\Debug\Caro_TrinhPhucHieu.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Caro_TrinhPhucHieu\obj\Debug\Caro_TrinhPhucHieu.Form1.resources
