@@ -227,7 +227,7 @@ namespace Caro_TrinhPhucHieu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(972, 693);
+            this.ClientSize = new System.Drawing.Size(972, 953);
             this.Controls.Add(this.BanCoCaro);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.9F);
